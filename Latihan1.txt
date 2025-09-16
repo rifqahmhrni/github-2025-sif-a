@@ -1,0 +1,4 @@
+pada latihan 1 ini saya sudah membuat akun github
+1. Membuat akun github
+2. Membuat repository
+3. melakukan edit pada file read.md
