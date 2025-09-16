@@ -1,10 +1,7 @@
 pada latihan 1 ini saya sudah membuat akun github
 1. Membuat akun github
 2. Membuat repository
-3. melakukan edit pada file read.md
 
 pada latihan ini juga saya sudah;
 a. Membuat file latihan1.txt
-b. mencaba membuat branch
-
-melakukan update hanya pada branch sesi-3
+b. mencoba membuat branch
